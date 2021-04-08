@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.API", "ControleFinanceiro.API\ControleFinanceiro.API.csproj", "{549D07A7-2A56-4AC9-8E14-65AF7DB5C67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549D07A7-2A56-4AC9-8E14-65AF7DB5C67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549D07A7-2A56-4AC9-8E14-65AF7DB5C67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549D07A7-2A56-4AC9-8E14-65AF7DB5C67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549D07A7-2A56-4AC9-8E14-65AF7DB5C67F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {921D48E0-735C-4BBB-93B5-D9D03FE14EC6}
+	EndGlobalSection
+EndGlobal
