@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9OMK5Lc9xCNbiSgmp1INY3xYSOMI9QL/EPxXMMsRaXR+hxi+4sOuW1aPyCrC6zVYAi6UI1JRy9YUSbyceJr5tg==",
+  "dgSpecHash": "gI/UnpWsi1ANiOqG1QTemlDgy3QoEOWmEe/YFOffpjwTzKSNhBqnRAyWgE+nCDnm5/hkdfEe0i9lFBdZw2iDlg==",
   "success": true,
   "projectFilePath": "C:\\Users\\felip\\Documents\\ControleFinanceiro\\ControleFinanceiro.API\\ControleFinanceiro.API\\ControleFinanceiro.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.11\\microsoft.aspnetcore.jsonpatch.3.1.11.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.11\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.11.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
